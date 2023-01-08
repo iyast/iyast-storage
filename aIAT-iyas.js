@@ -45,11 +45,11 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'ביומולדת 6 הייתי בגן חיות'},
-					{word: 'ביומולדת 6 אכלתי פיצה'},
-					{word: 'ביומולדת 6 ליטפתי ארנב'},
-					{word: 'ביומולדת 6 ראיתי פיל שמח'},
-					{word: 'ביומולדת 6 הצלטמתי עם סוס'}
+					{word: 'ביקרתי בגן חיות ביומולדת 6'},
+					{word: 'אכלתי פיצה ביומולדת 6'},
+					{word: 'ליטפתי ארנב ביומולדת 6'},
+					{word: 'ראיתי פיל שמח ביומולדת 6'},
+					{word: 'הצלטמתי עם סוס ביומולדת 6'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
@@ -63,11 +63,11 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'ביומולדת 8 הייתי בים'},
-					{word: 'ביומולדת 8 אכלת פנקייק'},
-					{word: 'ביומולדת 8 ליטפת גור'},
-					{word: 'ביומולדת 8 שיחקתי בחול'},
-					{word: 'ביומולדת 8 נרטבו לי הרגליים'}
+					{word: 'ביקרתי בים ביומולדת 8'},
+					{word: 'אכלתי פנקייק ביומולדת 8'},
+					{word: 'ליטפתי גור בחוף ביומולדת 8'},
+					{word: 'שיחקתי בחול יומולודת שמונה'},
+					{word: 'נרטבו לי הרגליים ביומולדת 8'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
