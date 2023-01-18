@@ -56,16 +56,16 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 			},
 			attribute2 :
 			{
-				name : 'יומולדת 8 בים',
+				name : 'יומולדת 6 בים',
 				title : {
-					media : {word : 'יומולדת 8 בים'},
+					media : {word : 'יומולדת 6 בים'},
 					css : {color:'#0000FF','font-size':'2em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'ביקרתי בים ביומולדת 8'},
-					{word: 'אכלתי פנקייק ביומולדת 8'},
-					{word: 'ליטפתי גור בחוף ביומולדת 8'},
+					{word: 'ביקרתי בים ביומולדת 6'},
+					{word: 'אכלתי פנקייק ביומולדת 6'},
+					{word: 'ליטפתי גור בחוף ביומולדת 6'},
 					{word: 'שיחקתי בחול יומולודת שמונה'},
 					{word: 'נרטבו לי הרגליים ביומולדת 8'}
 				],
