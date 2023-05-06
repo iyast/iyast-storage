@@ -40,7 +40,7 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 			{
 				name : 'טיול לקהיר',
 				title : {
-					media : {word : 'יומולדת 6 בגן חיות'},
+					media : {word : 'טיול לקהיר'},
 					css : {color:'#0000FF','font-size':'2em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
@@ -58,7 +58,7 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 			{
 				name : 'טיול לפריז',
 				title : {
-					media : {word : 'יומולדת 6 בים'},
+					media : {word : 'טיול לפריז'},
 					css : {color:'#0000FF','font-size':'2em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
