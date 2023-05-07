@@ -5,7 +5,7 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 		category2 : {
 			name : 'אמת', //Will appear in the data.
 			title : {
-				media : {word : 'אמת'}, //Name of the category presented in the task.
+				media : {word : 'True'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
