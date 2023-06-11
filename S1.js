@@ -64,7 +64,7 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
 					{word: 'בגיל 10 נסעתי עם המשפחה לפריז'},
-					{word: 'ביקרנו את מגדל אייפל'},
+					{word: 'ביקרתי עם המשפחה במגדל אייפל'},
 					{word: 'עלינו במעלית לפסגת המגדל'},
 					{word: 'אכלתי משולש פיצה בפסגה'},
 					{word: 'התרגשתי מהנוף המדהים של העיר'}
