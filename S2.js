@@ -29,9 +29,9 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 			stimulusMedia : [ //Stimuli content as PIP's media objects
     		    {word : 'أنا أتسلق جبل'}, 
     			{word : 'أنا على شاطئ البحر'}, 
-    			{word : 'أنا أتغذّى في مطعم الان'}, 
+    			{word : 'أنا اكل الغذاء في مطعم الان'}, 
     			{word : 'أنا ألعب كرة قدم الان'}, 
-    			{word : 'أنا متواجد الان في دكّان'}			
+    			{word : 'أنا متواجدة الان في دكّان'}			
 				], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'2.1em'}
@@ -56,18 +56,18 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 			},
 			attribute2 :
 			{
-				name : 'טיול לפריז',
+				name :'رحلة إلى إيلات',
 				title : {
-					media : {word : 'טיול לפריז'},
+					media : {word : 'رحلة إلى إيلات'},
 					css : {color:'#0000FF','font-size':'2em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'בגיל 10 נסעתי עם המשפחה לפריז'},
-					{word: 'ביקרתי עם המשפחה במגדל אייפל'},
-					{word: 'עלינו במעלית לפסגת המגדל'},
-					{word: 'אכלתי משולש פיצה בפסגה'},
-					{word: 'התרגשתי מהנוף המדהים של העיר'}
+					{word: 'بجيل 10 سافرت إلى إيلات'},
+					{word: 'مشينا على الأقدام في الرّحلة'},
+					{word: 'شاهدنا حيوانات في الرّحلة'},	
+					{word: 'كنت سعيدة جدّا لرؤية الحيوانات'},
+					{word: 'الطقس كان لطيف في إيلات'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
