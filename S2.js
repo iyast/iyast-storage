@@ -3,53 +3,53 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 
 	return iatExtension({
 		category2 : {
-			name : 'אמת', //Will appear in the data.
+			name : 'صدق', //Will appear in the data.
 			title : {
-				media : {word : 'אמת'}, //Name of the category presented in the task.
+				media : {word : 'صدق'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {word : 'אני בבניין של המחלקה לפסיכולוגיה'}, 
-    			{word : 'אני בחדר קטן עם מחשב'}, 
-    			{word : 'אני עושה ניסוי בפסיכולוגיה'}, 
-    			{word : 'אני במעבדה לפסיכולוגיה'}, 
-    			{word : 'אני מול המחשב'}
+    		    {word : 'أنا في بناية علم النّفس'}, 
+    			{word : 'أنا بغرفة صغيرة مع حاسوب'}, 
+    			{word : 'أنا أشترك في بحث'}, 
+    			{word : 'أنا بمختبر في علم النفس'}, 
+    			{word : 'أنا جالسة أمام الحاسوب'}
 			], 
 			//Stimulus css (style)
 			stimulusCss : {color:'#31940F','font-size':'2.1em'}
 		},	
 		category1:	{
-			name : 'שקר', //Will appear in the data.
+			name : 'كذب', //Will appear in the data.
 			title : {
-				media : {word : 'שקר'}, //Name of the category presented in the task.
+				media : {word : 'كذب'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {word : 'אני מטפס על הר'}, 
-    			{word : 'אני בחוף הים'}, 
-    			{word : 'אני אוכל במסעדה במרכז העיר'}, 
-    			{word : 'אני משחק עכשיו כדורגל'}, 
-    			{word : 'אני נמצא עכשיו בחנות'}			
+    		    {word : 'أنا أتسلق جبل'}, 
+    			{word : 'أنا على شاطئ البحر'}, 
+    			{word : 'أنا أتغذّى في مطعم الان'}, 
+    			{word : 'أنا ألعب كرة قدم الان'}, 
+    			{word : 'أنا متواجد الان في دكّان'}			
 				], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'2.1em'}
 		},
 			attribute1 :
 			{
-				name : 'טיול לגרמניה',
+				name : 'رحلة إلى باريس',
 				title : {
-					media : {word : 'טיול לגרמניה'},
+					media : {word : 'رحلة إلى باريس'},
 					css : {color:'#0000FF','font-size':'2em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'בגיל 10 נסעתי לגרמניה'},
-					{word: 'ביקרתי עם משפחה וחברים בלגו פארק'},
-					{word: 'ירד גשם ואבא שלי נרטב לגמרי'},
-					{word: 'רגע לפני שרצנו לקרוואן ראיתי פרחים'},
-					{word: 'אבא חתך לנו מלפפון ונקנקיק'}
+					{word: 'بجيل 10 سافرت إلى باريس'},
+					{word: 'زرت مع عائلتي برج إيفل'},
+					{word: 'صعدنا بالمصعد إلى قمّة البرج'},
+					{word: 'أكلت مثّلث بيتسا في القمّة'},
+					{word: 'تأثرت من المظهر في القمّة'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
