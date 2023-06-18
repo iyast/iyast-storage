@@ -38,24 +38,6 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 		},
 			attribute1 :
 			{
-				name : 'טיול לגרמניה',
-				title : {
-					media : {word : 'טיול לגרמניה'},
-					css : {color:'#0000FF','font-size':'2em'},
-					height : 4 //Used to position the "Or" in the combined block.
-				},
-				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'בגיל 10 נסעתי לגרמניה'},
-					{word: 'ביקרתי עם משפחה וחברים בלגו פארק'},
-					{word: 'ירד גשם ואבא שלי נרטב לגמרי'},
-					{word: 'רגע לפני שרצנו לקרוואן ראיתי פרחים'},
-					{word: 'אבא חתך לנו מלפפון ונקנקיק'}
-				],
-				//Stimulus css
-				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
-			},
-			attribute2 :
-			{
 				name : 'טיול לפריז',
 				title : {
 					media : {word : 'טיול לפריז'},
@@ -63,11 +45,29 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'בגיל 10 נסעתי עם המשפחה לפריז'},
+					{word: 'בגיל 10 נסעתי עם המשפחה לפריז'},  
 					{word: 'ביקרתי עם המשפחה במגדל אייפל'},
 					{word: 'עלינו במעלית לפסגת המגדל'},
 					{word: 'אכלתי משולש פיצה בפסגה'},
 					{word: 'התרגשתי מהנוף המדהים של העיר'}
+				],
+				//Stimulus css
+				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
+			},
+			attribute2 :
+			{
+				name : 'טיול לניו יורק',
+				title : {
+					media : {word : 'טיול לניו יורק'},
+					css : {color:'#0000FF','font-size':'2em'},
+					height : 4 //Used to position the "Or" in the combined block.
+				},
+				stimulusMedia : [ //Stimuli content as PIP's media objects
+					{word: 'בגיל 12 נסעתי לניו יורק'},
+					{word: 'טסתי לבד לניו יורק בילדותי'},
+	                                {word: 'בדרך למסיבה בגן ירד שלג'},
+					{word: 'אספתי שלג וזרקתי על הרצפה'},
+					{word: 'התלהבתי כשיחקתי בשלג'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
