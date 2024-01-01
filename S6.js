@@ -46,10 +46,10 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
 					{word: 'בגיל 6 נסעתי לרוסיה עם המשפחה'},
-					{word: 'ביקרתי בכיכר האדומה בשעות הבוקר'},
-					{word: 'הכיכר האדומה הייתה עמוסה באנשים'},
-					{word: 'ההורים נעלמו לי בכיכר'},
-					{word: 'האנשים מסביבי הרגישו גדולים'}
+					{word: 'הסתובבתי בכיכר האדומה'},
+					{word: 'הכיכר הייתה עמוסה באנשים'},
+					{word: 'ההורים נעלמו לי פתאום'},
+					{word: 'האנשים מסביבי נראו גדולים'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
