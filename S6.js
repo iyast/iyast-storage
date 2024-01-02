@@ -40,7 +40,7 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 			{
 				name : 'טיול לרוסיה',
 				title : {
-					media : {word : 'טיול שנתי'},
+					media : {word : 'טיול לרוסיה'},
 					css : {color:'#0000FF','font-size':'2em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
