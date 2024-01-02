@@ -45,8 +45,8 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'הג'יפ נתקע באמצע העלייה'},
-					{word: 'יצאתי מהג'יפ בבהלה'},
+					{word: 'הגיפ נתקע באמצע העלייה'},
+					{word: 'יצאתי מהגיפ בבהלה'},
 					{word: 'שמעתי את הרכב מתדרדר'},
 					{word: 'מזג האוויר בטיול היה חמים'},
 					{word: 'נסעתי עם המשפחה לטורקיה'}
