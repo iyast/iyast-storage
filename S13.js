@@ -47,7 +47,7 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 				stimulusMedia : [ //Stimuli content as PIP's media objects
 					{word: 'יונים עפו מסביבי ועשו עליי רוח'},
 					{word: 'אנשים מסביבנו בכיכר שתו בירה'},
-					{word: 'עמדנו בתור לקנות צ'יפס'},
+					{word: 'עמדנו בתור לקנות ציפס'},
 					{word: 'ישבתי עם המשפחה בכיכר'},
 					{word: 'ביקרנו בכיכר בשעת השקיעה'}
 				],
