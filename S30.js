@@ -56,18 +56,18 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 			},
 			attribute2 :
 			{
-				name : 'טיול ללונדון',
+				name : 'טיול להולנד',
 				title : {
-					media : {word : 'טיול ללונדון'},
+					media : {word : 'טיול להולנד'},
 					css : {color:'#0000FF','font-size':'2em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'עשינו הליכה לאורך אוקספורד'},
-					{word: 'הסתכלתי על חלונות הראווה בהתלהבות'},
-					{word: 'שמעתי מוזיקת פופ מהחנויות'},
-					{word: 'התרגשתי מחנות תקליטים'},
-					{word: 'הרחתי קפה ואוכל ברחובות'}
+					{word: 'שכרנו סירה בהולנד'},
+					{word: 'נפעמתי לראות עיירה על המים'},
+					{word: 'הכנסתי את היד למים'},
+					{word: 'ראיתי את אח שלי קופץ למים'},
+					{word: 'ראיתי ציפורים על המים'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
