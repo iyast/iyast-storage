@@ -66,8 +66,8 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					{word: 'ביקרנו בהר שבעת המפלים'},
 					{word: 'נסענו בגיפ פתוח לכיוון ההר'},
 					{word: 'במפל החמישי החל מונסון'},
-					{word: 'התרגשתי מחנות תקליטים'},
-					{word: 'הרחתי קפה ואוכל ברחובות'}
+					{word: 'הרגשתי את הבוץ הרטוב'},
+					{word: 'בפסגה ראינו את המפל הגדול'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
