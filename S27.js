@@ -38,6 +38,24 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 		},
 			attribute1 :
 			{
+				name : 'טיול לונציה',
+				title : {
+					media : {word : 'טיול לונציה'},
+					css : {color:'#0000FF','font-size':'2em'},
+					height : 4 //Used to position the "Or" in the combined block.
+				},
+				stimulusMedia : [ //Stimuli content as PIP's media objects
+					{word: 'עשינו שייט על גונדולה'},
+					{word: 'אכלתי גלידה ברחובות ונציה'},
+					{word: 'ראיתי ילד בגילי עם כובע צהוב'},
+					{word: 'האכלתי ברווזים בתעלה'},
+					{word: 'ראיתי מבנים צבועניים בשיט'}
+				],
+				//Stimulus css
+				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
+			},
+			attribute2 :
+			{
 				name : 'טיול לפריז',
 				title : {
 					media : {word : 'טיול לפריז'},
@@ -45,29 +63,11 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'היה מלחיץ לעלות במעלית מזכוכית'},
-					{word: 'ראיתי ילד בגילי עם כובע צהוב'},
-					{word: 'אכלתי גלידת שוקולד במגדל'},
-					{word: 'התרגשתי מהנוף המדהים של העיר'},
-					{word: 'אנשים נראו לי כמו נמלים'}
-				],
-				//Stimulus css
-				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
-			},
-			attribute2 :
-			{
-				name : 'טיול ללונדון',
-				title : {
-					media : {word : 'טיול ללונדון'},
-					css : {color:'#0000FF','font-size':'2em'},
-					height : 4 //Used to position the "Or" in the combined block.
-				},
-				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'עשינו הליכה לאורך אוקספורד'},
-					{word: 'הסתכלתי על חלונות הראווה בהתלהבות'},
-					{word: 'שמעתי מוזיקת פופ מהחנויות'},
-					{word: 'התרגשתי מחנות תקליטים'},
-					{word: 'הרחתי קפה ואוכל ברחובות'}
+					{word: 'ביקרנו במגדל אייפל'},
+					{word: 'נתקלנו במעגל ברייקדאנס'},
+					{word: 'הרקדן הפעיל את הצופים'},
+					{word: 'הצטרפתי למעגל ורקדתי'},
+					{word: 'חיכיתי את תנועות הרקדן'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
