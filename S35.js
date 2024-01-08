@@ -38,36 +38,37 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 		},
 			attribute1 :
 			{
-				name : 'טיול לונציה',
+				name : 'טיול לנורווגיה',
 				title : {
-					media : {word : 'טיול לונציה'},
+					media : {word : 'טיול לנורווגיה'},
 					css : {color:'#0000FF','font-size':'2em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'עשינו שייט על גונדולה'},
-					{word: 'אכלתי גלידה ברחובות ונציה'},
-					{word: 'ראיתי ילד בגילי עם כובע צהוב'},
-					{word: 'האכלתי ברווזים בתעלה'},
-					{word: 'ראיתי מבנים צבועניים בשיט'}
+					{word: 'נסעתי לנורווגיה עם המשפחה'},
+					{word: 'עשיתי שייט באחד הפיורדים'},
+					{word: 'האכלתי ברווזים באגם '},
+					{word: 'ראיתי ילד עם כובע צהוב'},
+					{word: 'אכלתי גלידה בטעם שוקולד'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
 			},
 			attribute2 :
 			{
-				name : 'טיול ליוון',
+				name : 'טיול להולנד',
 				title : {
-					media : {word : 'טיול ליוון'},
+					media : {word : 'טיול להולנד'},
 					css : {color:'#0000FF','font-size':'2em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'היה הריח של כלור בבריכה'},
-					{word: 'הסתובבתי לבד בבית מלון'},
-					{word: 'דיברתי עם אנשים באנגלית'},
-					{word: 'היה ריח מתוק של משקאות בבר'},
-					{word: 'לקחתי לעצמי אוכל לבד במלון'}
+					{word: 'ביקרתי במוזיאון השעווה'},
+					{word: 'הצטלמתי עם פרצוף כועס'},
+					{word: 'ראיתי פסל בדמות של מייקל גקסון'},
+					{word: 'נשארתי עם אחי הקטן בחוץ'},
+					{word: 'כעסתי שלא הכניסו אותי לחדר'}
+
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
