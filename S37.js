@@ -66,7 +66,7 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					{word: 'ביקרתי בסניף של טויס אר אס'},
 					{word: 'קניתי צעצוע של כלב חום'},
 					{word: 'הסניף היה ענק רב קומות'},
-					{word: 'ראיתי קשת בענן'},
+					{word: 'קניתי צעצוע של בובה עם ספר'},
 					{word: 'נסעתי עם ההורים לניו יורק'}
 				],
 				//Stimulus css
