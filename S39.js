@@ -38,14 +38,14 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 		},
 			attribute1 :
 			{
-				name : 'טיול לנורווגיה',
+				name : 'טיול לנורבגיה',
 				title : {
-					media : {word : 'טיול לנורווגיה'},
+					media : {word : 'טיול לנורבגיה'},
 					css : {color:'#0000FF','font-size':'2em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'נסעתי לנורווגיה עם המשפחה'},
+					{word: 'נסעתי לנורבגיה עם המשפחה'},
 					{word: 'עשיתי שייט באחד הפיורדים'},
 					{word: 'האכלתי ברווזים באגם '},
 					{word: 'ראיתי ילד עם כובע צהוב'},
@@ -56,18 +56,18 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 			},
 			attribute2 :
 			{
-				name : 'טיול להולנד',
+				name : 'טיול לגרמניה',
 				title : {
-					media : {word : 'טיול להולנד'},
+					media : {word : 'טיול לגרמניה'},
 					css : {color:'#0000FF','font-size':'2em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'ביקרתי במוזיאון השעווה'},
-					{word: 'הצטלמתי עם פרצוף כועס'},
-					{word: 'ראיתי פסל בדמות של מייקל גקסון'},
-					{word: 'נשארתי עם אחי הקטן בחוץ'},
-					{word: 'כעסתי שלא הכניסו אותי לחדר'}
+					{word: 'היה ריח מסריח של כלור'},
+					{word: 'ראיתי מגלשות גדולות ומפחידות'},
+					{word: 'פחדתי לעלות על המגלשות'},
+					{word: 'היה לי נעים בבריכה המחוממת'},
+					{word: 'ראיתי אדים יוצאים מהמים'}
 
 				],
 				//Stimulus css
