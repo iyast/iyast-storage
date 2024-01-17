@@ -38,27 +38,27 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 		},
 			attribute1 :
 			{
-				name : 'טיול לגנבה',
+				name : 'טיול לנורבגיה',
 				title : {
-					media : {word : 'טיול לגנבה'},
+					media : {word : 'טיול לנורבגיה'},
 					css : {color:'#0000FF','font-size':'2em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'ביקרתי בגנבה בשוויץ'},
-					{word: 'עשיתי שייט באגם בגנבה'},
+					{word: 'נסעתי לנורבגיה עם המשפחה'},
+					{word: 'עשיתי שייט באחד הפיורדים'},
+					{word: 'האכלתי ברווזים באגם '},
 					{word: 'ראיתי ילד עם כובע צהוב'},
-					{word: 'האכלתי ברווזים באגם'},
-					{word: 'אכלתי גלידה ברחובות גנבה'}
+					{word: 'אכלתי גלידה בטעם שוקולד'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
 			},
 			attribute2 :
 			{
-				name : 'טיול ליוון',
+				name : 'טיול לנורבגיה',
 				title : {
-					media : {word : 'טיול ליוון'},
+					media : {word : 'טיול לנורבגיה'},
 					css : {color:'#0000FF','font-size':'2em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
@@ -68,6 +68,7 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					{word: 'חיכינו בקוצר רוח לרדת מהאוניה'},
 					{word: 'אמא שלי עזרה לאישה זרה'},
 					{word: 'היינו גאים באמא שעזרה לאחרים'}
+
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
