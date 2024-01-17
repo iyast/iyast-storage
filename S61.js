@@ -56,9 +56,9 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 			},
 			attribute2 :
 			{
-				name : 'טיול לירושלים',
+				name : 'טיול למרכז',
 				title : {
-					media : {word : 'טיול לירושלים'},
+					media : {word : 'טיול למרכז'},
 					css : {color:'#0000FF','font-size':'2em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
